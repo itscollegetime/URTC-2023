@@ -16,10 +16,6 @@ Determining the drag coefficient of a design is crucial for engineers working wi
 |<img src="supp/res_01.jpg">  |  <img src="supp/res_02.jpg">|
 |-|-|
 
-# Photos
-|<img src="supp/URTC2023_09.jpg">  |  <img src="supp/URTC2023_25.jpg">| <img src="supp/URTC2023_27.jpg">| <img src="supp/URTC2023_33.JPG">|
-|-|-|-|-|
-
 # Primary Instrument
 
 Here are a few pictures of the 3D printed spheres that were dropped from the drone. In the two right most pictures there are two spheres, the smaller one is the first prototype design. It's parachute was attached to the release module and was deployed by a string connecting to the sphere. Due to string length limitations, only around 1 second of free fall data could be collected. My second sphere design included a onboard release servo and had the parachute stowed within it. This allowed for much more data to be collected and ultimately proved crucial for further data analysis.
@@ -71,3 +67,7 @@ Here are a few videos showcasing the data collection process for the preliminary
 
 |[![Watch the video](supp/vDD_01.jpg)](https://youtu.be/PYXKLhRCC98)| [![Watch the video](supp/vDD_02.jpg)](https://youtu.be/XwWg2IJEBqU)|
 |-|-|
+
+# Conference Photos
+|<img src="supp/URTC2023_09.jpg">  |  <img src="supp/URTC2023_25.jpg">| <img src="supp/URTC2023_27.jpg">| <img src="supp/URTC2023_33.JPG">|
+|-|-|-|-|
