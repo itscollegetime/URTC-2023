@@ -16,6 +16,9 @@ Determining the drag coefficient of a design is crucial for engineers working wi
 |<img src="supp/res_01.jpg">  |  <img src="supp/res_02.jpg">|
 |-|-|
 
+Each blue dot represents a data point. The red dotted line is the curve fit line with Cd listed above. Oscillations are clearly present after around 2 seconds. The curve fit of all 13 trials resulted in a Cd of 0.5±0.03. The method explored in the study can also be used to determine drag coefficients of other shapes, such as model rockets, outside of the lab. The test results can be useful as well for a discussion on potential effects of other related factors such as air turbulence and Reynolds number.
+
+
 # Primary Instrument
 
 Here are a few pictures of the 3D printed spheres that were dropped from the drone. In the two right most pictures there are two spheres, the smaller one is the first prototype design. It's parachute was attached to the release module and was deployed by a string connecting to the sphere. Due to string length limitations, only around 1 second of free fall data could be collected. My second sphere design included a onboard release servo and had the parachute stowed within it. This allowed for much more data to be collected and ultimately proved crucial for further data analysis.
@@ -43,25 +46,29 @@ Here are a few videos showcasing the data collection process. (Thanks dad for ca
 |<img src="supp/FD_01.jpg">  |  <img src="supp/FD_02.jpg">|
 |-|-|
 
+## Video Clips
+
 Here are a few videos showcasing the data collection process for the first prototype sphere mentioned above. The parachute is connected to the sphere and released by a 5m string. (Thank you to my mom for catching this time xD)
 
 |[![Watch the video](supp/FD_03.jpg)](https://youtu.be/DSQsyJr9EpU) | [![Watch the video](supp/FD_04.jpg)](https://youtu.be/YsY-ipEsGfg) |
 |-|-|
 
-# Preliminary Experiment to determine Effects of Propeller Downwash
+# Preliminary Experiment to Determine Effects of Propeller Downwash
 
 As my research focuses on objects' interactions with air, it is important that external disturbances are kept at minimal. Drones stay aloft by pushing air downwards and its effect must be properly accounted for.
-
-## Device Design
-
-Inspired by NASA's Sky Crane design, I built a small cart that is able to move up and down by releasing or retracting a set of strings stowed on two spinners on either sides of the compartment. By attaching barometric pressure sensors to the cart, I can measure the amount of noise in the data at different distances below the drone and determine where the effect of propellor downwash is negligible.
 
 <img src="supp/Preliminary%20Experiment.png">
 
 After around 100 half rotations of the spinners, the standard deviations in pressure data drop to around ambient levels. This distance was doubled on later data colletion trials.
 
+## Device Design
+
+Inspired by NASA's Sky Crane design, I built a small cart that is able to move up and down by releasing or retracting a set of strings stowed on two spinners on either sides of the compartment. By attaching barometric pressure sensors to the cart, I can measure the amount of noise in the data at different distances below the drone and determine where the effect of propellor downwash is negligible.
+
 |<img src="supp/DD_01.jpg">|<img src="supp/DD_02.jpg">|<img src="supp/DD_03.jpg">|<img src="supp/DD_04.jpg">|
 |-|-|-|-|
+
+## Video Clips
 
 Here are a few videos showcasing the data collection process for the preliminary experiment.
 
