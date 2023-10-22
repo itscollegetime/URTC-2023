@@ -38,7 +38,7 @@ The sphere was lifted by drone to 100m AGL. A release pin was then retracted dro
 
 Here are a few videos showcasing the data collection process. (Thanks dad for catching almost all of them C:)
 
-|[![Watch the video](supp/vSD_01.jpg)](https://youtu.be/AlfHkCt_TqM)| [![Watch the video](supp/vSD_03.jpg)](https://youtu.be/pFI2WR9nJVs)|[![Watch the video](supp/vSD_02.jpg)](https://youtu.be/zX2TprNO8Wo)| [![Watch the video](supp/vSD_04.jpg)](https://youtu.be/CzGhfGbbUxk)|
+|[![Watch the video](supp/vSD_01.jpg)](https://youtu.be/AlfHkCt_TqM)| [![Watch the video](supp/vSD_03.jpg)](https://youtu.be/pFI2WR9nJVs)|[![Watch the video](supp/vSD_02.jpg)](https://youtu.be/zX2TprNO8Wo)| [![Watch the video](supp/vSD_05.jpg)](https://youtu.be/GUub1k-Bo2U)|
 |-|-|-|-|
 
 # First Prototype Sphere
